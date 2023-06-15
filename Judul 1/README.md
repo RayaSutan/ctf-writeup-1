@@ -4,7 +4,7 @@
 ## About the Challenge
 
 
-[soal1](images/soal1.png)
+[FortuneCookie](images/FortuneCookie.jpg)
 
 ## Solution
 1. buka link http://103.167.136.89:10088/

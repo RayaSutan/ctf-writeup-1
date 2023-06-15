@@ -1,13 +1,19 @@
 # Judul 1
-> description chall
+
 
 ## About the Challenge
-Diberikan sebuah gambar anime (what you got from the chall)
+
 
 ![preview](images/preview.jpg)
 
 ## Solution
-Write how you solve the chall
+1. buka link http://103.167.136.89:10088/
+2. inspect dengan klik F12 atau ctrl+shift+i
+3. buka tab application
+4. buka cookies di bagian storage
+5. terdapat flag dengan value 0
+6. ubah value menjadi 1
+7. klik tombol "Get Your Fortune!"
 
 ```shell
 To put your image on github using

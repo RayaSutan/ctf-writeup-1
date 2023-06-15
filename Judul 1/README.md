@@ -15,16 +15,6 @@
 6. ubah value menjadi 1
 7. klik tombol "Get Your Fortune!"
 
-```shell
-To put your image on github using
-![name_of_image](images/name_of_image.jpg)
-```
-
-```shell
-if __name__ == "__main__":
-  print("Put your code or payload in here")
-```
-
 ```
 ForestyHC{here_is_your_fortun3_cookie_4a0a47}
 ```

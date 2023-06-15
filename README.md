@@ -4,7 +4,7 @@ Sutan Raya Dharma Namanika
 
 
 ## List Challange
-List of Challange I solved.
+- Fortune Cookies!
 
 ### Week 1
 | Category | Challenge |

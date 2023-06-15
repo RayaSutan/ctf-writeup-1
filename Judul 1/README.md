@@ -4,7 +4,7 @@
 ## About the Challenge
 
 
-![preview](images/preview.jpg)
+[soal1.png](images/soal1.png)
 
 ## Solution
 1. buka link http://103.167.136.89:10088/
@@ -26,5 +26,5 @@ if __name__ == "__main__":
 ```
 
 ```
-ForestyHC{H4ck3rrr_Cla555}
+ForestyHC{here_is_your_fortun3_cookie_4a0a47}
 ```
